@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MotionPositionSensors</string>
+
+    <string name="label_magneticFieldX">Magnetic Field X axis: %1$.2f</string>
+    <string name="label_magneticFieldY">Magnetic Field Y axis: %1$.2f</string>
+    <string name="label_magneticFieldZ">Magnetic Field Z axis: %1$.2f</string>
+
+    <string name="label_accelerometerX">Accelerometer X axis: %1$.2f</string>
+    <string name="label_accelerometerY">Accelerometer Y axis: %1$.2f</string>
+    <string name="label_accelerometerZ">Accelerometer Z axis: %1$.2f</string>
+
+    <string name="label_gyroscopeX">Gyroscope X axis: %1$.2f</string>
+    <string name="label_gyroscopeY">Gyroscope Y axis: %1$.2f</string>
+    <string name="label_gyroscopeZ">Gyroscope Z axis: %1$.2f</string>
+
+    <string name="label_rotvX">Rotation Vector X: %1$.2f</string>
+    <string name="label_rotvY">Rotation Vector Y: %1$.2f</string>
+    <string name="label_rotvZ">Rotation Vector Z: %1$.2f</string>
+    <string name="label_rotvS">Scalar component: %1$.2f</string>
+
+    <string name="label_gravX">Gravity X: %1$.2f</string>
+    <string name="label_gravY">Gravity Y: %1$.2f</string>
+    <string name="label_gravZ">Gravity Z: %1$.2f</string>
+
+    <string name="label_lineX">Linear Acceleration X: %1$.2f</string>
+    <string name="label_lineY">Linear Acceleration Y: %1$.2f</string>
+    <string name="label_lineZ">Linear Acceleration Z: %1$.2f</string>
+
+    <string name="label_grtX">Geomagnetic Rotation Vector X: %1$.2f</string>
+    <string name="label_grtY">Geomagnetic Rotation Vector Y: %1$.2f</string>
+    <string name="label_grtZ">Geomagnetic Rotation Vector Z: %1$.2f</string>
+
+    <string name="label_prox">Proximity: %1$.2f</string>
+
+    <string name="label_azimuth">Azimuth: %1$.2f</string>
+    <string name="label_pitch">Pitch: %1$.2f</string>
+    <string name="label_roll">Roll: %1$.2f</string>
+
+    <string name="error_no_sensor">Sensor not available!</string>
+</resources>
